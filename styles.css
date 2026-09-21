@@ -558,3 +558,8 @@ img{max-width:100%;display:block}
 @media (min-width:1024px){
   .thanks-solo{padding:112px 0}
 }
+
+/* ============ ПОДВАЛ БЕЗ РЕКВИЗИТОВ ============ */
+
+/* нижний блок удалён — линия отделять больше нечего */
+.site-footer .footer-grid{padding-bottom:0;border-bottom:none}
