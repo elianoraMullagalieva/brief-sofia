@@ -131,7 +131,7 @@ img{max-width:100%;display:block}
 
 .hero-figure img{
   width:100%;border-radius:22px;
-  aspect-ratio:3/4;object-fit:cover;object-position:center 18%;
+  aspect-ratio:3/4;object-fit:cover;object-position:center 12%;
 }
 
 .hero-figure figcaption{
